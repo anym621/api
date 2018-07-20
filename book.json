@@ -1,3 +1,9 @@
 {
-    "plugins": ["toggle-chapters","splitter"]
+    "plugins": [
+    "toggle-chapters",
+    "splitter",
+    "-search",
+    "search-pro"
+    ]
+    
 }
