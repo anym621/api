@@ -40,8 +40,8 @@
             ]
         },
         "donate": {
-            "wechat": "https://darrenliuwei.com/images/wechatpay.jpg",
-            "alipay": "https://darrenliuwei.com/images/alipay.jpg",
+            "wechat": "images/wechatpay.jpg",
+            "alipay": "images/alipay.jpg",
             "title": "",
             "button": "打赏",
             "alipayText": "支付宝打赏",
