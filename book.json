@@ -5,11 +5,5 @@
     "-lunr",
     "-search",
     "search-plus"
-    ],
-    "pluginsConfig": {
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord" : ["Gitbook Use"]
-        }
-    }  
+    ]
 }
