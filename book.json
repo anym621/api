@@ -4,8 +4,7 @@
     "splitter",
     "-lunr",
     "-search",
-    "search-plus",
-    "ad"
+    "search-plus"
     ],
     "pluginsConfig": {
         "search-pro": {
