@@ -5,7 +5,8 @@
     "-lunr",
     "-search",
     "search-plus",
-     "my-toolbar"
+     "my-toolbar",
+     "-sharing"
     ],
     "pluginsConfig": {
         "my-toolbar": {
