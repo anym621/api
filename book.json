@@ -6,5 +6,10 @@
     "-search",
     "search-plus",
      "language-picker"
-    ]
+    ],
+    "pluginsConfig": {
+        "language-picker": {
+            "grid-columns": 3
+        }
+    }
 }
