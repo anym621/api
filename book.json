@@ -8,9 +8,6 @@
      "my-toolbar"
     ],
     "pluginsConfig": {
-        "language-picker": {
-            "grid-columns": 3
-        },
         "my-toolbar": {
             "buttons":
             [
