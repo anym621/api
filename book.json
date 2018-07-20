@@ -13,7 +13,8 @@
             "grid-columns": 3
         },
         "my-toolbar": {
-        
+            "buttons":
+            []
         }
     }
 }
