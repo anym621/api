@@ -14,7 +14,14 @@
         },
         "my-toolbar": {
             "buttons":
-            []
+            [
+                {
+                    "label": "GitHub",
+                    "icon": "fa fa-github",
+                    "url": "https://github.com/",
+                    "target": "_self"
+                }
+            ]
         }
     }
 }
