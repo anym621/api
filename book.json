@@ -30,14 +30,7 @@
                     "icon": "fa fa-twitter",
                     "position":"left",
                     "url": "http://baidu.com"
-                },
-                {
-                    "label": "Edit page on github",
-                    "text":"Edit",
-                    "icon": "fa fa-pencil-square-o",
-                    "position" : "left",
-                    "url": "https://github.com/org/repo/edit/master/{{filepath_lang}}"
-                }
+                } 
             ]
         }
     }
