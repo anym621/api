@@ -11,6 +11,9 @@
      "tags"
     ],
     "pluginsConfig": {
+        "tags": {
+            "placement": "bottom"
+        },
         "my-toolbar": {
             "buttons":
             [
