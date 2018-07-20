@@ -6,7 +6,8 @@
     "-search",
     "search-plus",
      "my-toolbar",
-     "-sharing"
+     "-sharing",
+     "etoc"
     ],
     "pluginsConfig": {
         "my-toolbar": {
