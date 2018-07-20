@@ -29,7 +29,7 @@
                     "label": "Share page title and link on Twitter",
                     "icon": "fa fa-twitter",
                     "position":"left",
-                    "url": "http://twitter.com/home?status={{title}}%20{{url}}"
+                    "url": "http://baidu.com"
                 },
                 {
                     "label": "Edit page on github",
