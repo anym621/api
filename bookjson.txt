@@ -32,8 +32,7 @@ https://www.cnblogs.com/zhangjk1993/p/5066771.html
         "sitemap": {
             "hostname": "http://zhaoda.net/"
         },
-"
-my-toolbar": {
+"my-toolbar": {
 "buttons":
 [
 {
@@ -51,5 +50,13 @@ my-toolbar": {
 }
 ]
 }
-      }
+      },"tags": {
+"placement": "bottom"
+},
+"etoc": {
+"h2lb": 3,
+"mindepth": 3,
+"maxdepth": 4,
+"notoc": false
+},
     }
