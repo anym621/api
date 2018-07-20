@@ -48,7 +48,7 @@
             "wechatText": "微信打赏"
         },
         "github-buttons": {
-            "repo": "xiaoheiwang.com",
+            "repo": "https://xiaoheiwang.com",
             "types": [
                 "star"
             ],
