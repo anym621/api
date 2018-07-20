@@ -31,6 +31,25 @@ https://www.cnblogs.com/zhangjk1993/p/5066771.html
         },
         "sitemap": {
             "hostname": "http://zhaoda.net/"
-        }
+        },
+"
+my-toolbar": {
+"buttons":
+[
+{
+"label": "Share page title and link on Twitter",
+"icon": "fa fa-twitter",
+"position":"left",
+"url": "http://twitter.com/home?status={{title}}%20{{url}}"
+},
+{
+"label": "Edit page on github",
+"text":"Edit",
+"icon": "fa fa-pencil-square-o",
+"position" : "left",
+"url": "https://github.com/org/repo/edit/master/{{filepath_lang}}"
+}
+]
+}
       }
     }
