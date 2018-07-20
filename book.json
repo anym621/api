@@ -7,10 +7,7 @@
     "search-plus",
      "my-toolbar",
      "-sharing",
-     "etoc",
-     "tags",
      "back-to-top-button",
-     "emphasize" 
     ],
     "pluginsConfig": {
         "tags": {
