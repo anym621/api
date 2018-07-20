@@ -39,7 +39,7 @@
         },
         "donate": {
             "wechat": "images/wechatpay.png",
-            "alipay": "images/alipay.pny",
+            "alipay": "images/alipay.png",
             "title": "",
             "button": "打赏",
             "alipayText": "支付宝打赏",
