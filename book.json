@@ -9,7 +9,8 @@
      "-sharing",
      "etoc",
      "tags",
-     "back-to-top-button"
+     "back-to-top-button",
+     “emphasize” 
     ],
     "pluginsConfig": {
         "tags": {
