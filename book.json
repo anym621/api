@@ -1,7 +1,6 @@
 {
-} {
-      "title": "Webpack 中文指南",
-      "description": "Webpack 是当下最热门的前端资源模块化管理和打包工具，本书大部分内容翻译自 Webpack 官网。",
+      "title": "Webpack 锟斤拷锟斤拷指锟斤拷",
+      "description": "Webpack 锟角碉拷锟斤拷锟斤拷锟斤拷锟脚碉拷前锟斤拷锟斤拷源模锟介化锟斤拷锟斤拷锟酵达拷锟斤拷锟斤拷锟竭ｏ拷锟斤拷锟斤拷锟襟部凤拷锟斤拷锟捷凤拷锟斤拷锟斤拷 Webpack 锟斤拷锟斤拷锟斤拷",
       "language": "zh",
       "plugins": [
         "disqus",
@@ -22,7 +21,7 @@
         },
         "editlink": {
           "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
-          "label": "编辑本页"
+          "label": "锟洁辑锟斤拷页"
         },
         "baidu": {
             "token": "a9787f0ab45d5e237bab522431d0a7ec"
