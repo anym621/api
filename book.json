@@ -55,7 +55,7 @@
             "size": "small"
         },
         "edit-link": {
-            "base": "https://xiaoheiwang.com",
+            "base": "https://github.com/darrenliuwei/gitbook/edit/master",
             "label": "Edit This Page"
         }
     }
