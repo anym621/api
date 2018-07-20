@@ -6,7 +6,8 @@
     "-search",
     "search-plus",
      "language-picker",
-     "my-navigator"
+     "my-navigator",
+     "collapsible-menu"
     ],
     "pluginsConfig": {
         "language-picker": {
