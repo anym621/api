@@ -8,7 +8,8 @@
      "my-toolbar",
      "-sharing",
      "etoc",
-     "tags"
+     "tags",
+     "back-to-top-button"
     ],
     "pluginsConfig": {
         "tags": {
