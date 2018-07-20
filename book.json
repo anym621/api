@@ -5,7 +5,8 @@
     "-lunr",
     "-search",
     "search-plus",
-     "language-picker"
+     "language-picker",
+     "my-navigator"
     ],
     "pluginsConfig": {
         "language-picker": {
